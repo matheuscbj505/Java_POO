@@ -1,0 +1,19 @@
+[Métodos Especiais] 
+
+Métodos GETTERS -> Método acessor 
+
+e = nova Estante 
+t = e.getTotDoc() 
+
+-> "Acesso indireto" = proteção de dados
+
+Métodos SETTERS -> Metodo modificador 
+
+Método CONSTRUCT -> Metodo construtor 
+
+-> Atributos recebem valores ao instanciar
+o objeto 
+
+
+
+

@@ -1,0 +1,14 @@
+Objeto
+
+-> Coisa material ou abstrata 
+que pode ser percebida pelos sentidos
+e descrito por meio de suas caracteristicas
+comportamento e estado atual 
+
+
+Atributo -> Característica
+Metodo -> Ações que o objeto pode exercer 
+Estado -> Condições atuais do objeto
+
+Instanciar -> Objeto recebendo uma classe 
+

@@ -1,0 +1,49 @@
+Encapsulamento 
+
+EHP 
+
+E -> Encapsulamento 
+H -> Herança 
+P -> Polimorfismo 
+
+[Encapsulamento]
+
+Encapsulamento -> Protege o programa
+do programador e do usuário
+
+Exemplo anedótico -> Pilha de energia
+
+Interface -> "Contato com o mundo exterior"
+
+Encapsular não é obrigatório, mas uma boa
+prática de POO 
+
+Torna mudanças invisíveis
+Facilita reutilização de código 
+Reduzir os efeitos colaterais 
+
+Ex: Controle 
+
++ Métodos -> Públicos 
+
+ligar () 
+desligar () 
+abrirMenu () 
+fecharMenu () 
+maisVolume () 
+menosVolume () 
+ligarMudo () 
+desligarMudo ()
+
+
+
+  
+
+
+ 
+
+
+
+
+
+

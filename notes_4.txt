@@ -1,0 +1,43 @@
+Exemplo prático 
+
+[Sistema Bancário] 
+
+Classe Conta de Banco
+
+[atributos]
+
++ numConta
+# tipo
+- dono
+- saldo
+- status 
+
+[métodos] get/set 
+
++ abrir conta [construtor]
++ fechar conta
++ depositar
++ sacar
++ pagar mensalidade 
+
+cc -> conta corrente
+cp -> conta poupança 
+
+cc -> + 100,00 | 12,00 
+cp -> + 150,00 | 20,00
+
+-> Forma de escrever o saque da conta em java
+
+public void sacar (float v) {
+  if (this.getStatus ()) 
+      if (this.getSaldo () >= s)  
+          this.setSaldo (this.getSaldo () - v);
+      else
+          Sytem.out.println ("Saldo insuficiente);
+  else  
+      System.out.println ("Conta inexistente!);
+
+O código foi feito em sua maioria utilizando 
+métodos get () e set () ao invés do uso simples
+de variáveis 
+

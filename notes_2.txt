@@ -1,0 +1,32 @@
+UML 
+
+
+------------------
+Título da Classe  |
+(Começa com       |
+maiúsculo)        |                  |
+                  |
+Atributos         |
+                  |
+Métodos           |
+-------------------
+
+
+[Modificadores de visibilidade]
+
+-> Indicam o acesso aos componentes
+internos de uma classe 
+
++ -> Público ex: Orelhão
+- -> Privado ex: Celular
+# -> Protegido ex: Telefone fixo 
+
+A forma de modificar os atributos ou 
+utilizar um método de um objeto vai
+depender da forma como esses foram 
+declarados dentro da classe
+
+
+
+
+
